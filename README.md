@@ -17,10 +17,8 @@ return we will receive a collection of data, structured like a nested hash.
 An **API**, or application programming interface, is a manner in which companies
 and organizations, like Twitter or the New York City government, or the super
 fans behind the Game of Thrones API, expose their data and/or functionality to
-the public (i.e. talented programmers like yourself) for use. APIs allow us to
-add important data and functionality to the applications we build. You can think
-of an API as one way in which data is exposed to us developers for use in our
-own programs.
+the public (i.e. talented programmers like yourself) for use. APIs allow us to add important data and functionality to the applications we build. You can think
+of an API as one way in which data is exposed to us developers for use in our own programs.
 
 Just like we can use JavaScript to send a web request for a web page that is
 written in HTML, and receive a response that is full of HTML, we can use
